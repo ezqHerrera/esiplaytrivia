@@ -16,8 +16,8 @@ function App() {
       </div>
 
       <div id='infoBtnContainer' className='btn-group'>
-        <button disabled className='infoBtn'></button>
-        <button disabled className='infoBtn'></button>
+        <button disabled className='infoBtn'>num_preguntas</button>
+        <button disabled className='infoBtn'>puntos</button>
       </div>
     </div>
   )

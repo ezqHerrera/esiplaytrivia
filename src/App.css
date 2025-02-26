@@ -12,6 +12,7 @@
 #preguntaContainer h1 {
   font-weight: bold;
   border: solid 1px black;
+  text-shadow: 0 4px 4px;
 }
 
 #botonesContainer {
@@ -21,5 +22,11 @@
 }
 
 .respBtn {
+  box-shadow: 0 4px 4px;
+}
+
+.infoBtn {
+  background: #9DFFE5;
+  font-weight: bold;
   box-shadow: 0 4px 4px;
 }
