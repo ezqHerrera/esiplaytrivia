@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#main {
+  background: #B3E1D5;
+}
+
+#preguntaContainer h1 {
+  font-weight: bold;
+  border: solid 1px black;
+}
+
+#botonesContainer {
+  display: flex;
+  text-align: center;
+  justify-content: space-evenly;
+}
+
+.respBtn {
+  box-shadow: 0 4px 4px;
+}
